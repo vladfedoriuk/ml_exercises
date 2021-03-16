@@ -1,3 +1,6 @@
+the solutions can be found in vladyslav_fedoriuk.ipynb file.
+
+
 - In order to run with virtual environment, execute the following commands:
 
 1. Install python 3.9.1:
