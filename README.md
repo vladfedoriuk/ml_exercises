@@ -1,4 +1,4 @@
-the solutions can be found in vladyslav_fedoriuk.ipynb file.
+- The solutions can be found in vladyslav_fedoriuk.ipynb file.
 
 
 - In order to run with virtual environment, execute the following commands:
