@@ -26,7 +26,7 @@
     `docker container rm $(docker ps -aqf "name=ml-exercises")`
 6. To remove an image:
     `docker rmi ml-exercises`
-7. You can succesfully stop / start /restart the container:
+7. You can succesfully stop / start / restart the container:
     `docker stop <containerId> && docker start <containerId>`
                             or
                     `docker restart <containerId>`
