@@ -1,4 +1,4 @@
-- The solutions can be found in clustering/fedoriuk_vladyslav.ipynb file.
+- The solutions can be found in `fedoriuk_vladyslav.ipynb` file in a catalog related to a topic.
 
 
 - In order to run with virtual environment, execute the following commands:
