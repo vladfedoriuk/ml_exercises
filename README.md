@@ -1,3 +1,6 @@
+- The solutions can be found in clustering/fedoriuk_vladyslav.ipynb file.
+
+
 - In order to run with virtual environment, execute the following commands:
 
 1. Install python 3.9.1:
